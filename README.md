@@ -14,13 +14,19 @@ I have been selected as a Student Digital Ambassador. My role is to help my peer
 Repository Guide
 This project is organized into specific folders to keep things clean and professional:
 
-report/: My full Project Report (.docx/.pdf) covering all five tasks and my reflections.
-task-1-presentation/: A visual infographic on digital literacy created in Canva.
-task-2-portfolio/: Proof of my professional setups on LinkedIn, GitHub, and Kaggle.
-task-3-platforms/: Screenshots of my CodeChef coding practice and my Google Form setup.
+Report: My full Project Report (.docx/.pdf) covering all five tasks and my reflections.
+
+task-1-presentation: A visual infographic on digital literacy created in Canva.
+
+task-2-portfolio: Proof of my professional setups on LinkedIn, GitHub, and Kaggle.
+
+task-3-platforms: Screenshots of my CodeChef coding practice and my Google Form setup.
+
 task-4-email-etiquette/: Professional email drafts and my social media "Do's & Don'ts".
-task-5-cybercrime/: My UPI fraud case study and a survival guide for staying safe online.
+
+task-5-cybercrime: My UPI fraud case study and a survival guide for staying safe online.
 Module Summaries
+
 Task 1: Visual Awareness
 I used Canva to design a one-page infographic that makes digital literacy easy to understand. It covers safe internet practices and the basic tools every student needs to survive today.
 
